@@ -108,5 +108,5 @@ CREATE NONCLUSTERED INDEX i_emp_2 on Employees(Employee_firstname)
 CREATE NONCLUSTERED INDEX i_emp_3 on Employees(Employee_lastname)
 ```
 
-### Skrypt - procedura składowana
+## Skrypt - procedura składowana
 W skrypcie **stored_procedure.sql** została zapisana procedura składowana, która ma na celu ułatwienie funkcjonowania przychodni. Procedura po podaniu numeru id pacjenta ma na celu podanie: imienia, nazwiska, wieku oraz liczby lat zarejestrowania w przychodni dla pacjenta oraz imienia lekarza i nazwiska lekarza przypisanego do pacjenta w tabeli Additional_info_patients. Jeśli w tabeli Additional_info_patients nie pojawia się przypisany lekarz, to dostaniemy brak zapisu przy imieniu i nazwisku lekarza.
