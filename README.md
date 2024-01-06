@@ -9,7 +9,7 @@ Zgromadzone dane dotyczą pracowników, pacjentów, przepisywanych leków, zdiag
 ### Shemat bazy danych
 Na schemacie pokazany został układ tabel w bazie wraz z relacjami, konstrukcja bazy danych odbywa się zgodnie z plikiem: **create_database.sql**.
 
-<img width="451" alt="Diagram_2" src="https://github.com/weronikamucha/database_project2/assets/115482647/a1c15335-46a1-4ed0-826c-7ec141cb025f">
+<img width="451" alt="Diagram_2" src="https://github.com/weronikamucha/database_projekt2/assets/115482647/fa312c89-acc5-4bc1-b13c-8973093881bd">
 
 Utworzenie tabeli na przykładzie tabeli Visits:
 
